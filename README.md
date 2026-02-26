@@ -1,4 +1,13 @@
 ## Hi there 👋
+First-Year Data Science & AI Student at Leeds Beckett University
+
+Currently developing strong foundations in Python, SQL, and R, with a growing interest in data analysis, visualisation, and machine learning.
+
+I enjoy building practical projects that apply data-driven solutions to real-world problems. This profile showcases my Level 4 coursework, independent projects, and learning progress as I develop my technical and analytical skills.
+
+Passionate about AI, data storytelling, and continuous improvement in coding and problem-solving.
+
+Feel free to explore my repositories and follow my learning journey.
 
 <!--
 **deepikasrivadlakonda-alt/deepikasrivadlakonda-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
